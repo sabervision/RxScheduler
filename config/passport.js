@@ -1,0 +1,1 @@
+// config strategies for passport
